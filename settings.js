@@ -11,26 +11,26 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "242067274660"
+global.ownernomer = "24102266840"
 global.ownername = "🩵 𝙱𝚊𝚛𝚛𝚢 𝙰𝚕𝚕𝚎𝚗 "
 global.ytname = "YT: SSK-FAMILYCAMPAGNY"
 global.socialm = "GitHub: BarryAllen100"
 global.location = "Togo, maritime, Lomé"
 
-global.ownernumber = '242067274660'  //creator number
-global.ownername = '𝙱𝚊𝚛𝚛𝚢 𝙰𝚕𝚕𝚎𝚗 ' //owner name
-global.botname = '𝙱𝙰𝚁𝚁𝚈-𝙱𝚄𝙶-𝙱𝙾𝚃 //name of the bot
+global.ownernumber = '24102266840'  //creator number
+global.ownername = '~|•RAYANN•|~ ' //owner name
+global.botname = '~|•RAYANN•|~-𝙱𝙾𝚃 //name of the bot
 
 //sticker details
-global.packname = '𝙱𝚊𝚛𝚛𝚢 𝙰𝚕𝚕𝚎𝚗  𝑺𝑨𝑺𝑨𝑲𝑰'
-global.author = '𝙱𝙰𝚁𝚁𝚈-𝙱𝚄𝙶-𝙱𝙾𝚃'
+global.packname = 'RAYANN'
+global.author = 'OKLMBOY'
 
 //console view/theme
 global.themeemoji = '🩵'
 global.wm = "𝙱𝚊𝚛𝚛𝚢 𝙰𝚕𝚕𝚎𝚗  in©"
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029Vajrhmz96H4IsEjh4a41'
+global.link = 'NON!!'
 
 //custom prefix
 global.prefa = '.'
